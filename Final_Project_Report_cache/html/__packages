@@ -1,0 +1,12 @@
+base
+lattice
+ggplot2
+caret
+corrplot
+knitr
+foreach
+iterators
+doMC
+randomForest
+Rtsne
+xgboost
